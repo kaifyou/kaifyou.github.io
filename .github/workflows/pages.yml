@@ -3,7 +3,6 @@ name: Pages
 on:
   push:
     branches:
-      # 监听main分支的推送事件，如果你的默认分支是master，请改为master
       - main
 
 jobs:
